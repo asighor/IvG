@@ -1,2 +1,2 @@
 # IvG
-IvG fits soil water retention model to measured data based on an improved van Genuchten.
+Matlab code for fitting the Improved van Genuchten (IvG) Soil Water Retention Curve (IvG_SWRC.m) and the Unsaturated Hydraulic Conductivity (IvG_UHC.m) function. Soil water retention curve data (Data_IvG.csv) as well as data for all four soil textures fitted to the unsaturated hydraulic conductivity function (i.e., adelanto_loam_IvG_UHC.xls, pachappa_loam_IvG_UHC.xls, shonai_sand_IvG_UHC.xls, silty_clay_Canning_IvG_UHC.xls).
